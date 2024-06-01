@@ -16,4 +16,4 @@
 <br>
 <link rel="stylesheet" href="style.html"/>
 
-<button>Log in</button>
+<button class="a1" onclick="panda1();">Log in</button>
